@@ -59,7 +59,7 @@ http_user_agent IN ( "*%..\*" , "*..*", "*%2e%2e%2f*" ,"*%uff0e*" , "*%u2216*" ,
 dont forget to tune these queries based on your company
 
 
-thanks to  my dear teacher [Sina Mohebi](www.sinamohebi.com)
+thanks to  my dear teacher [Sina Mohebi](https://sinamohebi.com/) 
 
 
 
