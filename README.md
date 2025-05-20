@@ -1,7 +1,7 @@
 # Daily-SPL-WebAttacks
-Some Splunk queries that might be useful for SOC daily routine 
+Some Splunk queries that might be useful for SOC routines 
 
-spl queries to detect almost every form of these attacks :
+spl queries to detect `almost` every form of these attacks :
 
 XSS , SQLI , DirectoryTraversal
 
