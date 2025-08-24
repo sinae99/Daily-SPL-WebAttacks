@@ -59,7 +59,7 @@ http_user_agent IN ( "*%..\*" , "*..*", "*%2e%2e%2f*" ,"*%uff0e*" , "*%u2216*" ,
 modify these queries based on your SIEM to avoid any false positives
 
 
-[By Sina Mohebi](https://sinamohebi.com/) 
+<!-- [By Sina Mohebi](https://sinamohebi.com/) -->
 
 
 
